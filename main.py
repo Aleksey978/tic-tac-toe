@@ -8,3 +8,4 @@ def count(a=None):
 
 
 count()
+print("Изменено")
